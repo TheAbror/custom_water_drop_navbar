@@ -76,10 +76,10 @@ class _RootPageState extends State<RootPage> {
         ),
       ),
       bottomNavigationBar: FlexNavBarWidget(
-        backgroundColor: AppColors.textMain,
+        backgroundColor: Color(0XFF292929),
         selectedTextColor: Colors.white,
         unSelectedTextColor: Colors.white,
-        waterDropColor: AppColors.primary,
+        waterDropColor: Colors.amber,
         inactiveIconColor: Colors.white,
         selectedIndex: selectedIndex,
         barItems: <BarItem>[
