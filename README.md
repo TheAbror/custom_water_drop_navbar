@@ -11,6 +11,11 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages).
 -->
 
+<p align="center">
+    <img src="https://github.com/TheAbror/flex_nav_bar/assets/60324587/e15b93e4-7df8-4993-ba43-1c6aa0de5e01" alt="Flex Nav Bar" style="display:block; margin:auto;">
+</p>
+
+
 ```dart
 class RootPage extends StatefulWidget {
   const RootPage({super.key});

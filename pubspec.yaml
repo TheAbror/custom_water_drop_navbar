@@ -1,6 +1,6 @@
 name: flex_nav_bar
 description: Flexible navbar that can be modified according to your need.
-version: 0.0.2
+version: 0.0.3
 homepage: https://github.com/TheAbror/flex_nav_bar
 
 environment:

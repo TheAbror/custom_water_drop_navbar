@@ -1,3 +1,3 @@
-## 0.0.2
+## 0.0.3
 
-Minor color changes
+Chnages in readme
